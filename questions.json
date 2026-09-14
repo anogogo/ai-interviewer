@@ -1,0 +1,7 @@
+[
+  {"id": 1, "category": "Python", "question": "请解释 Python 中列表和元组的区别。"},
+  {"id": 2, "category": "机器学习", "question": "什么是过拟合？如何缓解？"},
+  {"id": 3, "category": "大模型", "question": "Prompt 工程中，如何设计一个结构化提示词？"},
+  {"id": 4, "category": "项目", "question": "请介绍你做过的一个项目，遇到的最大困难是什么？"},
+  {"id": 5, "category": "测试", "question": "黑盒测试和白盒测试的区别是什么？"}
+]
