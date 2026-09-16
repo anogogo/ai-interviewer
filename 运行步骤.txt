@@ -1,2 +1,0 @@
-set DASHSCOPE_API_KEY=sk-1743f2e5b8404dc0a8c1462d8c44686f
-python main.py
